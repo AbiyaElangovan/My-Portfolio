@@ -32,7 +32,7 @@ function Projects() {
               title="Pinterest clone"
               description="This web application is used to create boards,pins and idea pins.Allows users to search for and save pins to their boards.Tech Stack: React js,Node js,Mongodb,Express js."
               ghLink="https://github.com/AbiyaElangovan/pinterest-clone-frontend"
-              demoLink="https://charming-medovik-e79ebd.netlify.app/login"
+              demoLink="https://charming-medovik-e79ebd.netlify.app/"
             />
           </Col>
         </Row>
